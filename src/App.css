@@ -1,0 +1,15 @@
+.todoItem{
+    display: flex;
+    flex-direction:row;
+    column-gap: 10px;
+    height: 20px;
+    align-items: center;
+}
+
+.listText{
+    color: red;
+}
+
+.doneListText{
+    color: green;
+}
